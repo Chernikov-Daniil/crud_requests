@@ -1,0 +1,15 @@
+.containerUsers {
+	max-height: 388px;
+	overflow: auto;
+	border: 1px solid #000;
+	padding: 10px;
+	box-sizing: border-box;
+	border-radius: 5px;
+}
+
+.usersList {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px 10px;
+	overflow: auto;
+}

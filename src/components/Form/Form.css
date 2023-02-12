@@ -1,0 +1,13 @@
+.formContainer {
+	width: 500px;
+	outline: 1px solid black;
+	border-radius: 5px;
+	padding: 10px;
+	box-sizing: border-box;
+	margin: 0 50px 0 0;
+}
+
+.wrp {
+	width: 100%;
+	gap: 10px;
+}
